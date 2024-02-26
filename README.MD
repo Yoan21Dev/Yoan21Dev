@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoan21dev&label=Profile%20views&color=0e75b6&style=flat" alt="yoan21dev" /> </p>
 
-- 💬 Me pueds preguntar sobre **Python, Java y Javascripts**
+- 💬 Me puedes preguntar sobre **Python, Java y Javascripts**
 
 - 📫 Me puedes contactar a mi correo **yoander21@gmail.com**
 
